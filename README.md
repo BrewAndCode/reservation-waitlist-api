@@ -38,7 +38,7 @@ The application follows a layered backend architecture:
 - **Database Layer:** PostgreSQL stores reservations, waitlist entries, slots, and idempotency records.
 - **Infrastructure:** Docker Compose orchestrates the API and PostgreSQL containers.
 
-![Reservation API Architecture](docs/screenshots/08-architecture.png)
+![Reservation API Architecture](docs/screenshots/08-system-architecture.png)
 
 
 ## Tech Stack
